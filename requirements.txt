@@ -1,0 +1,6 @@
+$ pip install torch
+$ pip install torchvision
+$ pip install pandas
+$ pip install opencv-python
+$ pip install tk
+$ git clone https://github.com/ultralytics/yolov5
